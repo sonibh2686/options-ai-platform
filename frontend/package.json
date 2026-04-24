@@ -1,5 +1,6 @@
 {
   "name": "options-ai-frontend",
+  "description": "AI options trading frontend",
   "private": true,
   "version": "1.0.0",
   "type": "module",
