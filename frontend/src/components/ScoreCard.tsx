@@ -1,3 +1,4 @@
+import React, { useMemo, useState } from "react";
 type Props = {
   title: string;
   value: string | number;

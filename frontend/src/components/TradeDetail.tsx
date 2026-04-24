@@ -1,3 +1,5 @@
+import React, { useMemo, useState } from "react";
+
 type Props = {
   trade: any | null;
 };
