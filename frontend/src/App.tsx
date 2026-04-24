@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { analyzeTrade, fetchExpiries, fetchHistory, scanGlobal, scanToday } from "./api";
 import ScoreCard from "./components/ScoreCard";
 import SuggestionTable from "./components/SuggestionTable";
